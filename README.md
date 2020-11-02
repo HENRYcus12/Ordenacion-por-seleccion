@@ -1,2 +1,2 @@
-# Ordenacion-por-seleccion
+# Ordenacion-por-selección
 :smirk:
